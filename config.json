@@ -1,0 +1,9 @@
+{
+  "sourceDir": "./photos",
+  "llm": {
+    "provider": "mistral",
+    "apiKey": "",
+    "model": "pixtral-large-2411",
+    "ollamaUrl": "http://localhost:11434/api/generate"
+  }
+}
